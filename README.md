@@ -1,1 +1,1 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camillacabo&show_icons=true&theme=dark&locale=en" alt="camillacabo" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camillacabo&theme=dark" alt="camillacabo" /></p>
+<img align="right" alt="Coding" src="https://i.ibb.co/1QHBSTL/ezgif-com-video-to-gif.gif">
